@@ -121,6 +121,11 @@ plt.title("Private Car Sales per Year", weight="bold", size=14)
 plt.ylabel("Car Count")
 plt.xlabel('')
 plt.show()
+# Plot the pivot table into a line graph using seaborn
+# sns.relplot(x="Year", y="car_count", data=carsales_pivot.plot, kind="line", style="Statistic")
+# Itterate for rows using pivot for car sales
+# for index, row in carsales_pivot.iterrows():
+
 # Plot a line graph by Car Type and Year.
 carsales_pivot.plot.line(marker='o', linewidth=4)
 plt.title("Private Car Sales per Year", weight="bold", size=14)
