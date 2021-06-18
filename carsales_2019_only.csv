@@ -1,1 +1,2185 @@
-,Statistic,Year,Engine Capacity cc,Car Make,Emission Band,county,car_count
+Year,Statistic,County,car_count
+2019,New Private Cars,Carlow,2
+2019,New Private Cars,Cavan,2
+2019,New Private Cars,Clare,3
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,6
+2019,New Private Cars,Kerry,3
+2019,New Private Cars,Kildare,19
+2019,New Private Cars,Kilkenny,3
+2019,New Private Cars,Laois,3
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,1
+2019,New Private Cars,Louth,1
+2019,New Private Cars,Mayo,3
+2019,New Private Cars,Meath,9
+2019,New Private Cars,Monaghan,1
+2019,New Private Cars,Offaly,3
+2019,New Private Cars,Roscommon,1
+2019,New Private Cars,Sligo,3
+2019,New Private Cars,Westmeath,16
+2019,New Private Cars,Wexford,5
+2019,New Private Cars,Wicklow,19
+2019,New Private Cars,Limerick,4
+2019,New Private Cars,Waterford,4
+2019,New Private Cars,Tipperary,7
+2019,New Private Cars,Cork,26
+2019,New Private Cars,Dublin,183
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,1
+2019,New Private Cars,Donegal,1
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,1
+2019,New Private Cars,Kildare,3
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,1
+2019,New Private Cars,Mayo,1
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,1
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,1
+2019,New Private Cars,Cork,2
+2019,New Private Cars,Dublin,25
+2019,New Private Cars,Carlow,35
+2019,New Private Cars,Cavan,35
+2019,New Private Cars,Clare,71
+2019,New Private Cars,Donegal,46
+2019,New Private Cars,Galway,196
+2019,New Private Cars,Kerry,38
+2019,New Private Cars,Kildare,196
+2019,New Private Cars,Kilkenny,56
+2019,New Private Cars,Laois,42
+2019,New Private Cars,Leitrim,21
+2019,New Private Cars,Longford,17
+2019,New Private Cars,Louth,43
+2019,New Private Cars,Mayo,117
+2019,New Private Cars,Meath,120
+2019,New Private Cars,Monaghan,25
+2019,New Private Cars,Offaly,37
+2019,New Private Cars,Roscommon,200
+2019,New Private Cars,Sligo,87
+2019,New Private Cars,Westmeath,89
+2019,New Private Cars,Wexford,179
+2019,New Private Cars,Wicklow,85
+2019,New Private Cars,Limerick,113
+2019,New Private Cars,Waterford,192
+2019,New Private Cars,Tipperary,75
+2019,New Private Cars,Cork,423
+2019,New Private Cars,Dublin,1910
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,13
+2019,New Private Cars,Cavan,22
+2019,New Private Cars,Clare,28
+2019,New Private Cars,Donegal,14
+2019,New Private Cars,Galway,65
+2019,New Private Cars,Kerry,51
+2019,New Private Cars,Kildare,130
+2019,New Private Cars,Kilkenny,25
+2019,New Private Cars,Laois,7
+2019,New Private Cars,Leitrim,4
+2019,New Private Cars,Longford,7
+2019,New Private Cars,Louth,29
+2019,New Private Cars,Mayo,27
+2019,New Private Cars,Meath,66
+2019,New Private Cars,Monaghan,13
+2019,New Private Cars,Offaly,18
+2019,New Private Cars,Roscommon,87
+2019,New Private Cars,Sligo,13
+2019,New Private Cars,Westmeath,130
+2019,New Private Cars,Wexford,286
+2019,New Private Cars,Wicklow,49
+2019,New Private Cars,Limerick,74
+2019,New Private Cars,Waterford,125
+2019,New Private Cars,Tipperary,109
+2019,New Private Cars,Cork,388
+2019,New Private Cars,Dublin,2085
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,16
+2019,New Private Cars,Cavan,5
+2019,New Private Cars,Clare,33
+2019,New Private Cars,Donegal,19
+2019,New Private Cars,Galway,28
+2019,New Private Cars,Kerry,36
+2019,New Private Cars,Kildare,35
+2019,New Private Cars,Kilkenny,21
+2019,New Private Cars,Laois,28
+2019,New Private Cars,Leitrim,2
+2019,New Private Cars,Longford,1
+2019,New Private Cars,Louth,24
+2019,New Private Cars,Mayo,33
+2019,New Private Cars,Meath,18
+2019,New Private Cars,Monaghan,1
+2019,New Private Cars,Offaly,37
+2019,New Private Cars,Roscommon,6
+2019,New Private Cars,Sligo,5
+2019,New Private Cars,Westmeath,22
+2019,New Private Cars,Wexford,70
+2019,New Private Cars,Wicklow,21
+2019,New Private Cars,Limerick,18
+2019,New Private Cars,Waterford,81
+2019,New Private Cars,Tipperary,42
+2019,New Private Cars,Cork,72
+2019,New Private Cars,Dublin,335
+2019,New Private Cars,Carlow,74
+2019,New Private Cars,Cavan,33
+2019,New Private Cars,Clare,94
+2019,New Private Cars,Donegal,77
+2019,New Private Cars,Galway,141
+2019,New Private Cars,Kerry,66
+2019,New Private Cars,Kildare,154
+2019,New Private Cars,Kilkenny,64
+2019,New Private Cars,Laois,67
+2019,New Private Cars,Leitrim,22
+2019,New Private Cars,Longford,16
+2019,New Private Cars,Louth,96
+2019,New Private Cars,Mayo,72
+2019,New Private Cars,Meath,117
+2019,New Private Cars,Monaghan,14
+2019,New Private Cars,Offaly,77
+2019,New Private Cars,Roscommon,182
+2019,New Private Cars,Sligo,22
+2019,New Private Cars,Westmeath,93
+2019,New Private Cars,Wexford,120
+2019,New Private Cars,Wicklow,69
+2019,New Private Cars,Limerick,154
+2019,New Private Cars,Waterford,169
+2019,New Private Cars,Tipperary,62
+2019,New Private Cars,Cork,495
+2019,New Private Cars,Dublin,516
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,3
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,4
+2019,New Private Cars,Donegal,13
+2019,New Private Cars,Galway,1
+2019,New Private Cars,Kerry,5
+2019,New Private Cars,Kildare,19
+2019,New Private Cars,Kilkenny,4
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,3
+2019,New Private Cars,Longford,4
+2019,New Private Cars,Louth,12
+2019,New Private Cars,Mayo,3
+2019,New Private Cars,Meath,15
+2019,New Private Cars,Monaghan,3
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,2
+2019,New Private Cars,Sligo,3
+2019,New Private Cars,Westmeath,5
+2019,New Private Cars,Wexford,4
+2019,New Private Cars,Wicklow,29
+2019,New Private Cars,Limerick,8
+2019,New Private Cars,Waterford,19
+2019,New Private Cars,Tipperary,3
+2019,New Private Cars,Cork,45
+2019,New Private Cars,Dublin,193
+2019,New Private Cars,Carlow,115
+2019,New Private Cars,Cavan,144
+2019,New Private Cars,Clare,270
+2019,New Private Cars,Donegal,162
+2019,New Private Cars,Galway,329
+2019,New Private Cars,Kerry,325
+2019,New Private Cars,Kildare,312
+2019,New Private Cars,Kilkenny,195
+2019,New Private Cars,Laois,149
+2019,New Private Cars,Leitrim,25
+2019,New Private Cars,Longford,37
+2019,New Private Cars,Louth,184
+2019,New Private Cars,Mayo,159
+2019,New Private Cars,Meath,234
+2019,New Private Cars,Monaghan,41
+2019,New Private Cars,Offaly,90
+2019,New Private Cars,Roscommon,112
+2019,New Private Cars,Sligo,92
+2019,New Private Cars,Westmeath,100
+2019,New Private Cars,Wexford,509
+2019,New Private Cars,Wicklow,200
+2019,New Private Cars,Limerick,520
+2019,New Private Cars,Waterford,152
+2019,New Private Cars,Tipperary,341
+2019,New Private Cars,Cork,1539
+2019,New Private Cars,Dublin,2711
+2019,New Private Cars,Carlow,2
+2019,New Private Cars,Cavan,7
+2019,New Private Cars,Clare,30
+2019,New Private Cars,Donegal,31
+2019,New Private Cars,Galway,30
+2019,New Private Cars,Kerry,55
+2019,New Private Cars,Kildare,49
+2019,New Private Cars,Kilkenny,38
+2019,New Private Cars,Laois,50
+2019,New Private Cars,Leitrim,3
+2019,New Private Cars,Longford,3
+2019,New Private Cars,Louth,17
+2019,New Private Cars,Mayo,11
+2019,New Private Cars,Meath,26
+2019,New Private Cars,Monaghan,3
+2019,New Private Cars,Offaly,6
+2019,New Private Cars,Roscommon,20
+2019,New Private Cars,Sligo,2
+2019,New Private Cars,Westmeath,21
+2019,New Private Cars,Wexford,55
+2019,New Private Cars,Wicklow,45
+2019,New Private Cars,Limerick,49
+2019,New Private Cars,Waterford,63
+2019,New Private Cars,Tipperary,43
+2019,New Private Cars,Cork,130
+2019,New Private Cars,Dublin,448
+2019,New Private Cars,Carlow,157
+2019,New Private Cars,Cavan,95
+2019,New Private Cars,Clare,104
+2019,New Private Cars,Donegal,185
+2019,New Private Cars,Galway,300
+2019,New Private Cars,Kerry,225
+2019,New Private Cars,Kildare,552
+2019,New Private Cars,Kilkenny,239
+2019,New Private Cars,Laois,105
+2019,New Private Cars,Leitrim,40
+2019,New Private Cars,Longford,91
+2019,New Private Cars,Louth,215
+2019,New Private Cars,Mayo,186
+2019,New Private Cars,Meath,439
+2019,New Private Cars,Monaghan,119
+2019,New Private Cars,Offaly,107
+2019,New Private Cars,Roscommon,85
+2019,New Private Cars,Sligo,99
+2019,New Private Cars,Westmeath,208
+2019,New Private Cars,Wexford,325
+2019,New Private Cars,Wicklow,277
+2019,New Private Cars,Limerick,323
+2019,New Private Cars,Waterford,345
+2019,New Private Cars,Tipperary,248
+2019,New Private Cars,Cork,1038
+2019,New Private Cars,Dublin,4174
+2019,New Private Cars,Carlow,2
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,10
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,3
+2019,New Private Cars,Kerry,1
+2019,New Private Cars,Kildare,16
+2019,New Private Cars,Kilkenny,1
+2019,New Private Cars,Laois,1
+2019,New Private Cars,Leitrim,1
+2019,New Private Cars,Longford,1
+2019,New Private Cars,Louth,7
+2019,New Private Cars,Mayo,3
+2019,New Private Cars,Meath,7
+2019,New Private Cars,Monaghan,3
+2019,New Private Cars,Offaly,1
+2019,New Private Cars,Roscommon,2
+2019,New Private Cars,Sligo,1
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,4
+2019,New Private Cars,Wicklow,5
+2019,New Private Cars,Limerick,34
+2019,New Private Cars,Waterford,32
+2019,New Private Cars,Tipperary,3
+2019,New Private Cars,Cork,43
+2019,New Private Cars,Dublin,265
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,1
+2019,New Private Cars,Galway,1
+2019,New Private Cars,Kerry,1
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,1
+2019,New Private Cars,Laois,1
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,1
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,3
+2019,New Private Cars,Limerick,3
+2019,New Private Cars,Waterford,8
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,8
+2019,New Private Cars,Dublin,81
+2019,New Private Cars,Carlow,51
+2019,New Private Cars,Cavan,31
+2019,New Private Cars,Clare,186
+2019,New Private Cars,Donegal,259
+2019,New Private Cars,Galway,144
+2019,New Private Cars,Kerry,177
+2019,New Private Cars,Kildare,351
+2019,New Private Cars,Kilkenny,140
+2019,New Private Cars,Laois,131
+2019,New Private Cars,Leitrim,19
+2019,New Private Cars,Longford,12
+2019,New Private Cars,Louth,144
+2019,New Private Cars,Mayo,81
+2019,New Private Cars,Meath,234
+2019,New Private Cars,Monaghan,18
+2019,New Private Cars,Offaly,105
+2019,New Private Cars,Roscommon,370
+2019,New Private Cars,Sligo,43
+2019,New Private Cars,Westmeath,83
+2019,New Private Cars,Wexford,272
+2019,New Private Cars,Wicklow,171
+2019,New Private Cars,Limerick,215
+2019,New Private Cars,Waterford,118
+2019,New Private Cars,Tipperary,144
+2019,New Private Cars,Cork,856
+2019,New Private Cars,Dublin,1735
+2019,New Private Cars,Carlow,4
+2019,New Private Cars,Cavan,6
+2019,New Private Cars,Clare,10
+2019,New Private Cars,Donegal,14
+2019,New Private Cars,Galway,23
+2019,New Private Cars,Kerry,10
+2019,New Private Cars,Kildare,55
+2019,New Private Cars,Kilkenny,11
+2019,New Private Cars,Laois,2
+2019,New Private Cars,Leitrim,3
+2019,New Private Cars,Longford,4
+2019,New Private Cars,Louth,16
+2019,New Private Cars,Mayo,2
+2019,New Private Cars,Meath,46
+2019,New Private Cars,Monaghan,13
+2019,New Private Cars,Offaly,2
+2019,New Private Cars,Roscommon,4
+2019,New Private Cars,Sligo,2
+2019,New Private Cars,Westmeath,3
+2019,New Private Cars,Wexford,14
+2019,New Private Cars,Wicklow,23
+2019,New Private Cars,Limerick,43
+2019,New Private Cars,Waterford,54
+2019,New Private Cars,Tipperary,19
+2019,New Private Cars,Cork,134
+2019,New Private Cars,Dublin,586
+2019,New Private Cars,Carlow,1
+2019,New Private Cars,Cavan,2
+2019,New Private Cars,Clare,6
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,40
+2019,New Private Cars,Kerry,4
+2019,New Private Cars,Kildare,13
+2019,New Private Cars,Kilkenny,3
+2019,New Private Cars,Laois,2
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,2
+2019,New Private Cars,Louth,4
+2019,New Private Cars,Mayo,3
+2019,New Private Cars,Meath,6
+2019,New Private Cars,Monaghan,2
+2019,New Private Cars,Offaly,2
+2019,New Private Cars,Roscommon,2
+2019,New Private Cars,Sligo,1
+2019,New Private Cars,Westmeath,2
+2019,New Private Cars,Wexford,6
+2019,New Private Cars,Wicklow,3
+2019,New Private Cars,Limerick,5
+2019,New Private Cars,Waterford,4
+2019,New Private Cars,Tipperary,7
+2019,New Private Cars,Cork,55
+2019,New Private Cars,Dublin,309
+2019,New Private Cars,Carlow,41
+2019,New Private Cars,Cavan,19
+2019,New Private Cars,Clare,59
+2019,New Private Cars,Donegal,40
+2019,New Private Cars,Galway,59
+2019,New Private Cars,Kerry,36
+2019,New Private Cars,Kildare,76
+2019,New Private Cars,Kilkenny,15
+2019,New Private Cars,Laois,14
+2019,New Private Cars,Leitrim,4
+2019,New Private Cars,Longford,4
+2019,New Private Cars,Louth,57
+2019,New Private Cars,Mayo,2
+2019,New Private Cars,Meath,59
+2019,New Private Cars,Monaghan,32
+2019,New Private Cars,Offaly,23
+2019,New Private Cars,Roscommon,23
+2019,New Private Cars,Sligo,31
+2019,New Private Cars,Westmeath,13
+2019,New Private Cars,Wexford,93
+2019,New Private Cars,Wicklow,26
+2019,New Private Cars,Limerick,66
+2019,New Private Cars,Waterford,56
+2019,New Private Cars,Tipperary,25
+2019,New Private Cars,Cork,266
+2019,New Private Cars,Dublin,641
+2019,New Private Cars,Carlow,47
+2019,New Private Cars,Cavan,47
+2019,New Private Cars,Clare,37
+2019,New Private Cars,Donegal,37
+2019,New Private Cars,Galway,103
+2019,New Private Cars,Kerry,25
+2019,New Private Cars,Kildare,139
+2019,New Private Cars,Kilkenny,29
+2019,New Private Cars,Laois,23
+2019,New Private Cars,Leitrim,8
+2019,New Private Cars,Longford,12
+2019,New Private Cars,Louth,49
+2019,New Private Cars,Mayo,34
+2019,New Private Cars,Meath,116
+2019,New Private Cars,Monaghan,23
+2019,New Private Cars,Offaly,22
+2019,New Private Cars,Roscommon,20
+2019,New Private Cars,Sligo,45
+2019,New Private Cars,Westmeath,55
+2019,New Private Cars,Wexford,84
+2019,New Private Cars,Wicklow,46
+2019,New Private Cars,Limerick,94
+2019,New Private Cars,Waterford,78
+2019,New Private Cars,Tipperary,57
+2019,New Private Cars,Cork,302
+2019,New Private Cars,Dublin,1580
+2019,New Private Cars,Carlow,3
+2019,New Private Cars,Cavan,3
+2019,New Private Cars,Clare,5
+2019,New Private Cars,Donegal,2
+2019,New Private Cars,Galway,10
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,22
+2019,New Private Cars,Kilkenny,5
+2019,New Private Cars,Laois,2
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,4
+2019,New Private Cars,Mayo,2
+2019,New Private Cars,Meath,16
+2019,New Private Cars,Monaghan,1
+2019,New Private Cars,Offaly,1
+2019,New Private Cars,Roscommon,1
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,14
+2019,New Private Cars,Wexford,45
+2019,New Private Cars,Wicklow,10
+2019,New Private Cars,Limerick,21
+2019,New Private Cars,Waterford,23
+2019,New Private Cars,Tipperary,10
+2019,New Private Cars,Cork,45
+2019,New Private Cars,Dublin,271
+2019,New Private Cars,Carlow,5
+2019,New Private Cars,Cavan,6
+2019,New Private Cars,Clare,7
+2019,New Private Cars,Donegal,16
+2019,New Private Cars,Galway,15
+2019,New Private Cars,Kerry,16
+2019,New Private Cars,Kildare,28
+2019,New Private Cars,Kilkenny,14
+2019,New Private Cars,Laois,8
+2019,New Private Cars,Leitrim,3
+2019,New Private Cars,Longford,5
+2019,New Private Cars,Louth,19
+2019,New Private Cars,Mayo,19
+2019,New Private Cars,Meath,24
+2019,New Private Cars,Monaghan,18
+2019,New Private Cars,Offaly,14
+2019,New Private Cars,Roscommon,63
+2019,New Private Cars,Sligo,2
+2019,New Private Cars,Westmeath,21
+2019,New Private Cars,Wexford,27
+2019,New Private Cars,Wicklow,36
+2019,New Private Cars,Limerick,26
+2019,New Private Cars,Waterford,3
+2019,New Private Cars,Tipperary,31
+2019,New Private Cars,Cork,79
+2019,New Private Cars,Dublin,381
+2019,New Private Cars,Carlow,50
+2019,New Private Cars,Cavan,130
+2019,New Private Cars,Clare,200
+2019,New Private Cars,Donegal,77
+2019,New Private Cars,Galway,231
+2019,New Private Cars,Kerry,113
+2019,New Private Cars,Kildare,282
+2019,New Private Cars,Kilkenny,144
+2019,New Private Cars,Laois,66
+2019,New Private Cars,Leitrim,20
+2019,New Private Cars,Longford,19
+2019,New Private Cars,Louth,284
+2019,New Private Cars,Mayo,86
+2019,New Private Cars,Meath,262
+2019,New Private Cars,Monaghan,61
+2019,New Private Cars,Offaly,98
+2019,New Private Cars,Roscommon,813
+2019,New Private Cars,Sligo,46
+2019,New Private Cars,Westmeath,88
+2019,New Private Cars,Wexford,298
+2019,New Private Cars,Wicklow,198
+2019,New Private Cars,Limerick,234
+2019,New Private Cars,Waterford,175
+2019,New Private Cars,Tipperary,151
+2019,New Private Cars,Cork,889
+2019,New Private Cars,Dublin,2880
+2019,New Private Cars,Carlow,38
+2019,New Private Cars,Cavan,23
+2019,New Private Cars,Clare,49
+2019,New Private Cars,Donegal,130
+2019,New Private Cars,Galway,157
+2019,New Private Cars,Kerry,56
+2019,New Private Cars,Kildare,102
+2019,New Private Cars,Kilkenny,41
+2019,New Private Cars,Laois,16
+2019,New Private Cars,Leitrim,37
+2019,New Private Cars,Longford,17
+2019,New Private Cars,Louth,29
+2019,New Private Cars,Mayo,28
+2019,New Private Cars,Meath,51
+2019,New Private Cars,Monaghan,49
+2019,New Private Cars,Offaly,56
+2019,New Private Cars,Roscommon,641
+2019,New Private Cars,Sligo,21
+2019,New Private Cars,Westmeath,35
+2019,New Private Cars,Wexford,97
+2019,New Private Cars,Wicklow,69
+2019,New Private Cars,Limerick,117
+2019,New Private Cars,Waterford,168
+2019,New Private Cars,Tipperary,114
+2019,New Private Cars,Cork,390
+2019,New Private Cars,Dublin,2411
+2019,New Private Cars,Carlow,115
+2019,New Private Cars,Cavan,36
+2019,New Private Cars,Clare,48
+2019,New Private Cars,Donegal,106
+2019,New Private Cars,Galway,151
+2019,New Private Cars,Kerry,158
+2019,New Private Cars,Kildare,176
+2019,New Private Cars,Kilkenny,92
+2019,New Private Cars,Laois,46
+2019,New Private Cars,Leitrim,17
+2019,New Private Cars,Longford,13
+2019,New Private Cars,Louth,179
+2019,New Private Cars,Mayo,73
+2019,New Private Cars,Meath,176
+2019,New Private Cars,Monaghan,60
+2019,New Private Cars,Offaly,87
+2019,New Private Cars,Roscommon,63
+2019,New Private Cars,Sligo,63
+2019,New Private Cars,Westmeath,66
+2019,New Private Cars,Wexford,140
+2019,New Private Cars,Wicklow,128
+2019,New Private Cars,Limerick,209
+2019,New Private Cars,Waterford,376
+2019,New Private Cars,Tipperary,198
+2019,New Private Cars,Cork,447
+2019,New Private Cars,Dublin,2181
+2019,New Private Cars,Carlow,1
+2019,New Private Cars,Cavan,1
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,3
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,3
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,1
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,1
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,1
+2019,New Private Cars,Limerick,1
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,1
+2019,New Private Cars,Cork,3
+2019,New Private Cars,Dublin,51
+2019,New Private Cars,Carlow,65
+2019,New Private Cars,Cavan,68
+2019,New Private Cars,Clare,134
+2019,New Private Cars,Donegal,62
+2019,New Private Cars,Galway,162
+2019,New Private Cars,Kerry,90
+2019,New Private Cars,Kildare,200
+2019,New Private Cars,Kilkenny,93
+2019,New Private Cars,Laois,82
+2019,New Private Cars,Leitrim,13
+2019,New Private Cars,Longford,9
+2019,New Private Cars,Louth,187
+2019,New Private Cars,Mayo,83
+2019,New Private Cars,Meath,177
+2019,New Private Cars,Monaghan,9
+2019,New Private Cars,Offaly,87
+2019,New Private Cars,Roscommon,1028
+2019,New Private Cars,Sligo,13
+2019,New Private Cars,Westmeath,148
+2019,New Private Cars,Wexford,198
+2019,New Private Cars,Wicklow,71
+2019,New Private Cars,Limerick,209
+2019,New Private Cars,Waterford,492
+2019,New Private Cars,Tipperary,115
+2019,New Private Cars,Cork,946
+2019,New Private Cars,Dublin,1987
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,23
+2019,New Private Cars,Cavan,33
+2019,New Private Cars,Clare,31
+2019,New Private Cars,Donegal,87
+2019,New Private Cars,Galway,139
+2019,New Private Cars,Kerry,44
+2019,New Private Cars,Kildare,148
+2019,New Private Cars,Kilkenny,60
+2019,New Private Cars,Laois,25
+2019,New Private Cars,Leitrim,9
+2019,New Private Cars,Longford,9
+2019,New Private Cars,Louth,75
+2019,New Private Cars,Mayo,64
+2019,New Private Cars,Meath,85
+2019,New Private Cars,Monaghan,107
+2019,New Private Cars,Offaly,12
+2019,New Private Cars,Roscommon,169
+2019,New Private Cars,Sligo,10
+2019,New Private Cars,Westmeath,53
+2019,New Private Cars,Wexford,89
+2019,New Private Cars,Wicklow,40
+2019,New Private Cars,Limerick,110
+2019,New Private Cars,Waterford,102
+2019,New Private Cars,Tipperary,56
+2019,New Private Cars,Cork,506
+2019,New Private Cars,Dublin,1861
+2019,New Private Cars,Carlow,137
+2019,New Private Cars,Cavan,111
+2019,New Private Cars,Clare,175
+2019,New Private Cars,Donegal,151
+2019,New Private Cars,Galway,321
+2019,New Private Cars,Kerry,159
+2019,New Private Cars,Kildare,423
+2019,New Private Cars,Kilkenny,130
+2019,New Private Cars,Laois,157
+2019,New Private Cars,Leitrim,24
+2019,New Private Cars,Longford,32
+2019,New Private Cars,Louth,173
+2019,New Private Cars,Mayo,145
+2019,New Private Cars,Meath,248
+2019,New Private Cars,Monaghan,77
+2019,New Private Cars,Offaly,57
+2019,New Private Cars,Roscommon,250
+2019,New Private Cars,Sligo,106
+2019,New Private Cars,Westmeath,123
+2019,New Private Cars,Wexford,407
+2019,New Private Cars,Wicklow,205
+2019,New Private Cars,Limerick,195
+2019,New Private Cars,Waterford,192
+2019,New Private Cars,Tipperary,230
+2019,New Private Cars,Cork,941
+2019,New Private Cars,Dublin,3622
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,1
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,1
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,1
+2019,New Private Cars,Kildare,1
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,6
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,1
+2019,New Private Cars,Mayo,1
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,2
+2019,New Private Cars,Roscommon,1
+2019,New Private Cars,Sligo,1
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,1
+2019,New Private Cars,Tipperary,3
+2019,New Private Cars,Cork,1
+2019,New Private Cars,Dublin,16
+2019,New Private Cars,Carlow,1
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,2
+2019,New Private Cars,Galway,2
+2019,New Private Cars,Kerry,2
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,1
+2019,New Private Cars,Mayo,1
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,1
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,1
+2019,New Private Cars,Wicklow,2
+2019,New Private Cars,Limerick,1
+2019,New Private Cars,Waterford,2
+2019,New Private Cars,Tipperary,6
+2019,New Private Cars,Cork,15
+2019,New Private Cars,Dublin,43
+2019,New Private Cars,Carlow,8
+2019,New Private Cars,Cavan,6
+2019,New Private Cars,Clare,34
+2019,New Private Cars,Donegal,85
+2019,New Private Cars,Galway,45
+2019,New Private Cars,Kerry,22
+2019,New Private Cars,Kildare,43
+2019,New Private Cars,Kilkenny,22
+2019,New Private Cars,Laois,25
+2019,New Private Cars,Leitrim,4
+2019,New Private Cars,Longford,15
+2019,New Private Cars,Louth,19
+2019,New Private Cars,Mayo,55
+2019,New Private Cars,Meath,22
+2019,New Private Cars,Monaghan,23
+2019,New Private Cars,Offaly,30
+2019,New Private Cars,Roscommon,18
+2019,New Private Cars,Sligo,13
+2019,New Private Cars,Westmeath,9
+2019,New Private Cars,Wexford,39
+2019,New Private Cars,Wicklow,28
+2019,New Private Cars,Limerick,28
+2019,New Private Cars,Waterford,41
+2019,New Private Cars,Tipperary,49
+2019,New Private Cars,Cork,168
+2019,New Private Cars,Dublin,292
+2019,New Private Cars,Carlow,128
+2019,New Private Cars,Cavan,166
+2019,New Private Cars,Clare,202
+2019,New Private Cars,Donegal,280
+2019,New Private Cars,Galway,520
+2019,New Private Cars,Kerry,225
+2019,New Private Cars,Kildare,447
+2019,New Private Cars,Kilkenny,176
+2019,New Private Cars,Laois,117
+2019,New Private Cars,Leitrim,41
+2019,New Private Cars,Longford,111
+2019,New Private Cars,Louth,260
+2019,New Private Cars,Mayo,253
+2019,New Private Cars,Meath,398
+2019,New Private Cars,Monaghan,102
+2019,New Private Cars,Offaly,187
+2019,New Private Cars,Roscommon,217
+2019,New Private Cars,Sligo,126
+2019,New Private Cars,Westmeath,243
+2019,New Private Cars,Wexford,239
+2019,New Private Cars,Wicklow,219
+2019,New Private Cars,Limerick,392
+2019,New Private Cars,Waterford,218
+2019,New Private Cars,Tipperary,314
+2019,New Private Cars,Cork,1546
+2019,New Private Cars,Dublin,4281
+2019,New Private Cars,Carlow,0
+2019,New Private Cars,Cavan,0
+2019,New Private Cars,Clare,0
+2019,New Private Cars,Donegal,0
+2019,New Private Cars,Galway,0
+2019,New Private Cars,Kerry,0
+2019,New Private Cars,Kildare,0
+2019,New Private Cars,Kilkenny,0
+2019,New Private Cars,Laois,0
+2019,New Private Cars,Leitrim,0
+2019,New Private Cars,Longford,0
+2019,New Private Cars,Louth,0
+2019,New Private Cars,Mayo,0
+2019,New Private Cars,Meath,0
+2019,New Private Cars,Monaghan,0
+2019,New Private Cars,Offaly,0
+2019,New Private Cars,Roscommon,0
+2019,New Private Cars,Sligo,0
+2019,New Private Cars,Westmeath,0
+2019,New Private Cars,Wexford,0
+2019,New Private Cars,Wicklow,0
+2019,New Private Cars,Limerick,0
+2019,New Private Cars,Waterford,0
+2019,New Private Cars,Tipperary,0
+2019,New Private Cars,Cork,0
+2019,New Private Cars,Dublin,0
+2019,New Private Cars,Carlow,134
+2019,New Private Cars,Cavan,123
+2019,New Private Cars,Clare,277
+2019,New Private Cars,Donegal,232
+2019,New Private Cars,Galway,487
+2019,New Private Cars,Kerry,219
+2019,New Private Cars,Kildare,436
+2019,New Private Cars,Kilkenny,218
+2019,New Private Cars,Laois,142
+2019,New Private Cars,Leitrim,75
+2019,New Private Cars,Longford,104
+2019,New Private Cars,Louth,314
+2019,New Private Cars,Mayo,261
+2019,New Private Cars,Meath,406
+2019,New Private Cars,Monaghan,76
+2019,New Private Cars,Offaly,136
+2019,New Private Cars,Roscommon,177
+2019,New Private Cars,Sligo,161
+2019,New Private Cars,Westmeath,222
+2019,New Private Cars,Wexford,678
+2019,New Private Cars,Wicklow,326
+2019,New Private Cars,Limerick,387
+2019,New Private Cars,Waterford,290
+2019,New Private Cars,Tipperary,317
+2019,New Private Cars,Cork,1298
+2019,New Private Cars,Dublin,5684
+2019,New Private Cars,Carlow,33
+2019,New Private Cars,Cavan,5
+2019,New Private Cars,Clare,18
+2019,New Private Cars,Donegal,55
+2019,New Private Cars,Galway,50
+2019,New Private Cars,Kerry,30
+2019,New Private Cars,Kildare,79
+2019,New Private Cars,Kilkenny,15
+2019,New Private Cars,Laois,7
+2019,New Private Cars,Leitrim,1
+2019,New Private Cars,Longford,3
+2019,New Private Cars,Louth,8
+2019,New Private Cars,Mayo,2
+2019,New Private Cars,Meath,34
+2019,New Private Cars,Monaghan,6
+2019,New Private Cars,Offaly,10
+2019,New Private Cars,Roscommon,15
+2019,New Private Cars,Sligo,11
+2019,New Private Cars,Westmeath,6
+2019,New Private Cars,Wexford,57
+2019,New Private Cars,Wicklow,26
+2019,New Private Cars,Limerick,50
+2019,New Private Cars,Waterford,57
+2019,New Private Cars,Tipperary,21
+2019,New Private Cars,Cork,135
+2019,New Private Cars,Dublin,706
+2019,Second Hand Private Cars,Carlow,5
+2019,Second Hand Private Cars,Cavan,2
+2019,Second Hand Private Cars,Clare,9
+2019,Second Hand Private Cars,Donegal,7
+2019,Second Hand Private Cars,Galway,14
+2019,Second Hand Private Cars,Kerry,10
+2019,Second Hand Private Cars,Kildare,12
+2019,Second Hand Private Cars,Kilkenny,9
+2019,Second Hand Private Cars,Laois,5
+2019,Second Hand Private Cars,Leitrim,2
+2019,Second Hand Private Cars,Longford,4
+2019,Second Hand Private Cars,Louth,8
+2019,Second Hand Private Cars,Mayo,6
+2019,Second Hand Private Cars,Meath,14
+2019,Second Hand Private Cars,Monaghan,5
+2019,Second Hand Private Cars,Offaly,7
+2019,Second Hand Private Cars,Roscommon,7
+2019,Second Hand Private Cars,Sligo,8
+2019,Second Hand Private Cars,Westmeath,5
+2019,Second Hand Private Cars,Wexford,10
+2019,Second Hand Private Cars,Wicklow,16
+2019,Second Hand Private Cars,Limerick,12
+2019,Second Hand Private Cars,Waterford,7
+2019,Second Hand Private Cars,Tipperary,10
+2019,Second Hand Private Cars,Cork,35
+2019,Second Hand Private Cars,Dublin,149
+2019,Second Hand Private Cars,Carlow,2
+2019,Second Hand Private Cars,Cavan,1
+2019,Second Hand Private Cars,Clare,3
+2019,Second Hand Private Cars,Donegal,5
+2019,Second Hand Private Cars,Galway,1
+2019,Second Hand Private Cars,Kerry,1
+2019,Second Hand Private Cars,Kildare,11
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,2
+2019,Second Hand Private Cars,Longford,1
+2019,Second Hand Private Cars,Louth,1
+2019,Second Hand Private Cars,Mayo,4
+2019,Second Hand Private Cars,Meath,11
+2019,Second Hand Private Cars,Monaghan,1
+2019,Second Hand Private Cars,Offaly,1
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,1
+2019,Second Hand Private Cars,Wexford,6
+2019,Second Hand Private Cars,Wicklow,4
+2019,Second Hand Private Cars,Limerick,6
+2019,Second Hand Private Cars,Waterford,5
+2019,Second Hand Private Cars,Tipperary,4
+2019,Second Hand Private Cars,Cork,16
+2019,Second Hand Private Cars,Dublin,61
+2019,Second Hand Private Cars,Carlow,144
+2019,Second Hand Private Cars,Cavan,256
+2019,Second Hand Private Cars,Clare,342
+2019,Second Hand Private Cars,Donegal,575
+2019,Second Hand Private Cars,Galway,651
+2019,Second Hand Private Cars,Kerry,245
+2019,Second Hand Private Cars,Kildare,482
+2019,Second Hand Private Cars,Kilkenny,209
+2019,Second Hand Private Cars,Laois,176
+2019,Second Hand Private Cars,Leitrim,98
+2019,Second Hand Private Cars,Longford,142
+2019,Second Hand Private Cars,Louth,349
+2019,Second Hand Private Cars,Mayo,342
+2019,Second Hand Private Cars,Meath,515
+2019,Second Hand Private Cars,Monaghan,232
+2019,Second Hand Private Cars,Offaly,183
+2019,Second Hand Private Cars,Roscommon,155
+2019,Second Hand Private Cars,Sligo,155
+2019,Second Hand Private Cars,Westmeath,255
+2019,Second Hand Private Cars,Wexford,330
+2019,Second Hand Private Cars,Wicklow,251
+2019,Second Hand Private Cars,Limerick,463
+2019,Second Hand Private Cars,Waterford,199
+2019,Second Hand Private Cars,Tipperary,329
+2019,Second Hand Private Cars,Cork,1017
+2019,Second Hand Private Cars,Dublin,2400
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,0
+2019,Second Hand Private Cars,Donegal,1
+2019,Second Hand Private Cars,Galway,0
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,0
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,0
+2019,Second Hand Private Cars,Meath,0
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,0
+2019,Second Hand Private Cars,Wicklow,0
+2019,Second Hand Private Cars,Limerick,0
+2019,Second Hand Private Cars,Waterford,0
+2019,Second Hand Private Cars,Tipperary,0
+2019,Second Hand Private Cars,Cork,0
+2019,Second Hand Private Cars,Dublin,1
+2019,Second Hand Private Cars,Carlow,76
+2019,Second Hand Private Cars,Cavan,145
+2019,Second Hand Private Cars,Clare,181
+2019,Second Hand Private Cars,Donegal,372
+2019,Second Hand Private Cars,Galway,461
+2019,Second Hand Private Cars,Kerry,177
+2019,Second Hand Private Cars,Kildare,476
+2019,Second Hand Private Cars,Kilkenny,138
+2019,Second Hand Private Cars,Laois,100
+2019,Second Hand Private Cars,Leitrim,50
+2019,Second Hand Private Cars,Longford,68
+2019,Second Hand Private Cars,Louth,294
+2019,Second Hand Private Cars,Mayo,225
+2019,Second Hand Private Cars,Meath,397
+2019,Second Hand Private Cars,Monaghan,175
+2019,Second Hand Private Cars,Offaly,80
+2019,Second Hand Private Cars,Roscommon,83
+2019,Second Hand Private Cars,Sligo,89
+2019,Second Hand Private Cars,Westmeath,153
+2019,Second Hand Private Cars,Wexford,208
+2019,Second Hand Private Cars,Wicklow,216
+2019,Second Hand Private Cars,Limerick,345
+2019,Second Hand Private Cars,Waterford,156
+2019,Second Hand Private Cars,Tipperary,225
+2019,Second Hand Private Cars,Cork,882
+2019,Second Hand Private Cars,Dublin,2518
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,2
+2019,Second Hand Private Cars,Donegal,4
+2019,Second Hand Private Cars,Galway,3
+2019,Second Hand Private Cars,Kerry,2
+2019,Second Hand Private Cars,Kildare,1
+2019,Second Hand Private Cars,Kilkenny,1
+2019,Second Hand Private Cars,Laois,3
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,4
+2019,Second Hand Private Cars,Mayo,3
+2019,Second Hand Private Cars,Meath,4
+2019,Second Hand Private Cars,Monaghan,2
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,3
+2019,Second Hand Private Cars,Sligo,2
+2019,Second Hand Private Cars,Westmeath,2
+2019,Second Hand Private Cars,Wexford,4
+2019,Second Hand Private Cars,Wicklow,7
+2019,Second Hand Private Cars,Limerick,1
+2019,Second Hand Private Cars,Waterford,2
+2019,Second Hand Private Cars,Tipperary,2
+2019,Second Hand Private Cars,Cork,2
+2019,Second Hand Private Cars,Dublin,16
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,1
+2019,Second Hand Private Cars,Donegal,2
+2019,Second Hand Private Cars,Galway,2
+2019,Second Hand Private Cars,Kerry,4
+2019,Second Hand Private Cars,Kildare,0
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,1
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,1
+2019,Second Hand Private Cars,Mayo,1
+2019,Second Hand Private Cars,Meath,0
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,1
+2019,Second Hand Private Cars,Sligo,1
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,0
+2019,Second Hand Private Cars,Wicklow,0
+2019,Second Hand Private Cars,Limerick,1
+2019,Second Hand Private Cars,Waterford,0
+2019,Second Hand Private Cars,Tipperary,0
+2019,Second Hand Private Cars,Cork,0
+2019,Second Hand Private Cars,Dublin,7
+2019,Second Hand Private Cars,Carlow,28
+2019,Second Hand Private Cars,Cavan,38
+2019,Second Hand Private Cars,Clare,74
+2019,Second Hand Private Cars,Donegal,163
+2019,Second Hand Private Cars,Galway,126
+2019,Second Hand Private Cars,Kerry,73
+2019,Second Hand Private Cars,Kildare,145
+2019,Second Hand Private Cars,Kilkenny,35
+2019,Second Hand Private Cars,Laois,44
+2019,Second Hand Private Cars,Leitrim,25
+2019,Second Hand Private Cars,Longford,30
+2019,Second Hand Private Cars,Louth,79
+2019,Second Hand Private Cars,Mayo,97
+2019,Second Hand Private Cars,Meath,138
+2019,Second Hand Private Cars,Monaghan,46
+2019,Second Hand Private Cars,Offaly,28
+2019,Second Hand Private Cars,Roscommon,30
+2019,Second Hand Private Cars,Sligo,25
+2019,Second Hand Private Cars,Westmeath,46
+2019,Second Hand Private Cars,Wexford,95
+2019,Second Hand Private Cars,Wicklow,66
+2019,Second Hand Private Cars,Limerick,60
+2019,Second Hand Private Cars,Waterford,48
+2019,Second Hand Private Cars,Tipperary,96
+2019,Second Hand Private Cars,Cork,211
+2019,Second Hand Private Cars,Dublin,486
+2019,Second Hand Private Cars,Carlow,5
+2019,Second Hand Private Cars,Cavan,9
+2019,Second Hand Private Cars,Clare,9
+2019,Second Hand Private Cars,Donegal,43
+2019,Second Hand Private Cars,Galway,15
+2019,Second Hand Private Cars,Kerry,15
+2019,Second Hand Private Cars,Kildare,21
+2019,Second Hand Private Cars,Kilkenny,4
+2019,Second Hand Private Cars,Laois,3
+2019,Second Hand Private Cars,Leitrim,7
+2019,Second Hand Private Cars,Longford,2
+2019,Second Hand Private Cars,Louth,12
+2019,Second Hand Private Cars,Mayo,11
+2019,Second Hand Private Cars,Meath,21
+2019,Second Hand Private Cars,Monaghan,8
+2019,Second Hand Private Cars,Offaly,1
+2019,Second Hand Private Cars,Roscommon,11
+2019,Second Hand Private Cars,Sligo,6
+2019,Second Hand Private Cars,Westmeath,4
+2019,Second Hand Private Cars,Wexford,17
+2019,Second Hand Private Cars,Wicklow,4
+2019,Second Hand Private Cars,Limerick,10
+2019,Second Hand Private Cars,Waterford,14
+2019,Second Hand Private Cars,Tipperary,9
+2019,Second Hand Private Cars,Cork,42
+2019,Second Hand Private Cars,Dublin,70
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,0
+2019,Second Hand Private Cars,Donegal,0
+2019,Second Hand Private Cars,Galway,0
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,0
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,0
+2019,Second Hand Private Cars,Meath,0
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,1
+2019,Second Hand Private Cars,Wicklow,0
+2019,Second Hand Private Cars,Limerick,0
+2019,Second Hand Private Cars,Waterford,1
+2019,Second Hand Private Cars,Tipperary,0
+2019,Second Hand Private Cars,Cork,0
+2019,Second Hand Private Cars,Dublin,0
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,0
+2019,Second Hand Private Cars,Donegal,0
+2019,Second Hand Private Cars,Galway,1
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,0
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,1
+2019,Second Hand Private Cars,Mayo,0
+2019,Second Hand Private Cars,Meath,0
+2019,Second Hand Private Cars,Monaghan,1
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,0
+2019,Second Hand Private Cars,Wicklow,0
+2019,Second Hand Private Cars,Limerick,0
+2019,Second Hand Private Cars,Waterford,1
+2019,Second Hand Private Cars,Tipperary,1
+2019,Second Hand Private Cars,Cork,2
+2019,Second Hand Private Cars,Dublin,2
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,1
+2019,Second Hand Private Cars,Donegal,0
+2019,Second Hand Private Cars,Galway,2
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,0
+2019,Second Hand Private Cars,Kilkenny,1
+2019,Second Hand Private Cars,Laois,1
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,0
+2019,Second Hand Private Cars,Meath,0
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,0
+2019,Second Hand Private Cars,Wicklow,0
+2019,Second Hand Private Cars,Limerick,0
+2019,Second Hand Private Cars,Waterford,0
+2019,Second Hand Private Cars,Tipperary,0
+2019,Second Hand Private Cars,Cork,0
+2019,Second Hand Private Cars,Dublin,4
+2019,Second Hand Private Cars,Carlow,7
+2019,Second Hand Private Cars,Cavan,7
+2019,Second Hand Private Cars,Clare,16
+2019,Second Hand Private Cars,Donegal,31
+2019,Second Hand Private Cars,Galway,40
+2019,Second Hand Private Cars,Kerry,18
+2019,Second Hand Private Cars,Kildare,51
+2019,Second Hand Private Cars,Kilkenny,17
+2019,Second Hand Private Cars,Laois,6
+2019,Second Hand Private Cars,Leitrim,4
+2019,Second Hand Private Cars,Longford,3
+2019,Second Hand Private Cars,Louth,28
+2019,Second Hand Private Cars,Mayo,12
+2019,Second Hand Private Cars,Meath,45
+2019,Second Hand Private Cars,Monaghan,8
+2019,Second Hand Private Cars,Offaly,7
+2019,Second Hand Private Cars,Roscommon,17
+2019,Second Hand Private Cars,Sligo,15
+2019,Second Hand Private Cars,Westmeath,18
+2019,Second Hand Private Cars,Wexford,25
+2019,Second Hand Private Cars,Wicklow,54
+2019,Second Hand Private Cars,Limerick,15
+2019,Second Hand Private Cars,Waterford,17
+2019,Second Hand Private Cars,Tipperary,23
+2019,Second Hand Private Cars,Cork,121
+2019,Second Hand Private Cars,Dublin,415
+2019,Second Hand Private Cars,Carlow,112
+2019,Second Hand Private Cars,Cavan,299
+2019,Second Hand Private Cars,Clare,515
+2019,Second Hand Private Cars,Donegal,828
+2019,Second Hand Private Cars,Galway,798
+2019,Second Hand Private Cars,Kerry,394
+2019,Second Hand Private Cars,Kildare,500
+2019,Second Hand Private Cars,Kilkenny,230
+2019,Second Hand Private Cars,Laois,213
+2019,Second Hand Private Cars,Leitrim,102
+2019,Second Hand Private Cars,Longford,148
+2019,Second Hand Private Cars,Louth,397
+2019,Second Hand Private Cars,Mayo,604
+2019,Second Hand Private Cars,Meath,529
+2019,Second Hand Private Cars,Monaghan,301
+2019,Second Hand Private Cars,Offaly,153
+2019,Second Hand Private Cars,Roscommon,266
+2019,Second Hand Private Cars,Sligo,169
+2019,Second Hand Private Cars,Westmeath,218
+2019,Second Hand Private Cars,Wexford,391
+2019,Second Hand Private Cars,Wicklow,205
+2019,Second Hand Private Cars,Limerick,553
+2019,Second Hand Private Cars,Waterford,277
+2019,Second Hand Private Cars,Tipperary,461
+2019,Second Hand Private Cars,Cork,1398
+2019,Second Hand Private Cars,Dublin,2096
+2019,Second Hand Private Cars,Carlow,28
+2019,Second Hand Private Cars,Cavan,24
+2019,Second Hand Private Cars,Clare,49
+2019,Second Hand Private Cars,Donegal,73
+2019,Second Hand Private Cars,Galway,157
+2019,Second Hand Private Cars,Kerry,47
+2019,Second Hand Private Cars,Kildare,160
+2019,Second Hand Private Cars,Kilkenny,37
+2019,Second Hand Private Cars,Laois,44
+2019,Second Hand Private Cars,Leitrim,12
+2019,Second Hand Private Cars,Longford,20
+2019,Second Hand Private Cars,Louth,67
+2019,Second Hand Private Cars,Mayo,58
+2019,Second Hand Private Cars,Meath,118
+2019,Second Hand Private Cars,Monaghan,16
+2019,Second Hand Private Cars,Offaly,22
+2019,Second Hand Private Cars,Roscommon,17
+2019,Second Hand Private Cars,Sligo,19
+2019,Second Hand Private Cars,Westmeath,34
+2019,Second Hand Private Cars,Wexford,63
+2019,Second Hand Private Cars,Wicklow,99
+2019,Second Hand Private Cars,Limerick,66
+2019,Second Hand Private Cars,Waterford,48
+2019,Second Hand Private Cars,Tipperary,77
+2019,Second Hand Private Cars,Cork,228
+2019,Second Hand Private Cars,Dublin,1436
+2019,Second Hand Private Cars,Carlow,83
+2019,Second Hand Private Cars,Cavan,128
+2019,Second Hand Private Cars,Clare,299
+2019,Second Hand Private Cars,Donegal,331
+2019,Second Hand Private Cars,Galway,661
+2019,Second Hand Private Cars,Kerry,286
+2019,Second Hand Private Cars,Kildare,357
+2019,Second Hand Private Cars,Kilkenny,127
+2019,Second Hand Private Cars,Laois,106
+2019,Second Hand Private Cars,Leitrim,36
+2019,Second Hand Private Cars,Longford,146
+2019,Second Hand Private Cars,Louth,287
+2019,Second Hand Private Cars,Mayo,165
+2019,Second Hand Private Cars,Meath,362
+2019,Second Hand Private Cars,Monaghan,179
+2019,Second Hand Private Cars,Offaly,105
+2019,Second Hand Private Cars,Roscommon,142
+2019,Second Hand Private Cars,Sligo,116
+2019,Second Hand Private Cars,Westmeath,170
+2019,Second Hand Private Cars,Wexford,260
+2019,Second Hand Private Cars,Wicklow,210
+2019,Second Hand Private Cars,Limerick,343
+2019,Second Hand Private Cars,Waterford,127
+2019,Second Hand Private Cars,Tipperary,216
+2019,Second Hand Private Cars,Cork,638
+2019,Second Hand Private Cars,Dublin,2301
+2019,Second Hand Private Cars,Carlow,7
+2019,Second Hand Private Cars,Cavan,14
+2019,Second Hand Private Cars,Clare,16
+2019,Second Hand Private Cars,Donegal,30
+2019,Second Hand Private Cars,Galway,34
+2019,Second Hand Private Cars,Kerry,10
+2019,Second Hand Private Cars,Kildare,42
+2019,Second Hand Private Cars,Kilkenny,14
+2019,Second Hand Private Cars,Laois,15
+2019,Second Hand Private Cars,Leitrim,1
+2019,Second Hand Private Cars,Longford,6
+2019,Second Hand Private Cars,Louth,25
+2019,Second Hand Private Cars,Mayo,16
+2019,Second Hand Private Cars,Meath,49
+2019,Second Hand Private Cars,Monaghan,6
+2019,Second Hand Private Cars,Offaly,7
+2019,Second Hand Private Cars,Roscommon,9
+2019,Second Hand Private Cars,Sligo,6
+2019,Second Hand Private Cars,Westmeath,13
+2019,Second Hand Private Cars,Wexford,14
+2019,Second Hand Private Cars,Wicklow,34
+2019,Second Hand Private Cars,Limerick,23
+2019,Second Hand Private Cars,Waterford,15
+2019,Second Hand Private Cars,Tipperary,21
+2019,Second Hand Private Cars,Cork,105
+2019,Second Hand Private Cars,Dublin,273
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,0
+2019,Second Hand Private Cars,Donegal,0
+2019,Second Hand Private Cars,Galway,0
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,0
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,0
+2019,Second Hand Private Cars,Meath,0
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,0
+2019,Second Hand Private Cars,Wicklow,0
+2019,Second Hand Private Cars,Limerick,0
+2019,Second Hand Private Cars,Waterford,0
+2019,Second Hand Private Cars,Tipperary,0
+2019,Second Hand Private Cars,Cork,0
+2019,Second Hand Private Cars,Dublin,2
+2019,Second Hand Private Cars,Carlow,33
+2019,Second Hand Private Cars,Cavan,45
+2019,Second Hand Private Cars,Clare,124
+2019,Second Hand Private Cars,Donegal,257
+2019,Second Hand Private Cars,Galway,143
+2019,Second Hand Private Cars,Kerry,151
+2019,Second Hand Private Cars,Kildare,180
+2019,Second Hand Private Cars,Kilkenny,102
+2019,Second Hand Private Cars,Laois,92
+2019,Second Hand Private Cars,Leitrim,26
+2019,Second Hand Private Cars,Longford,31
+2019,Second Hand Private Cars,Louth,130
+2019,Second Hand Private Cars,Mayo,67
+2019,Second Hand Private Cars,Meath,139
+2019,Second Hand Private Cars,Monaghan,64
+2019,Second Hand Private Cars,Offaly,43
+2019,Second Hand Private Cars,Roscommon,45
+2019,Second Hand Private Cars,Sligo,54
+2019,Second Hand Private Cars,Westmeath,92
+2019,Second Hand Private Cars,Wexford,92
+2019,Second Hand Private Cars,Wicklow,74
+2019,Second Hand Private Cars,Limerick,132
+2019,Second Hand Private Cars,Waterford,80
+2019,Second Hand Private Cars,Tipperary,115
+2019,Second Hand Private Cars,Cork,512
+2019,Second Hand Private Cars,Dublin,595
+2019,Second Hand Private Cars,Carlow,9
+2019,Second Hand Private Cars,Cavan,13
+2019,Second Hand Private Cars,Clare,16
+2019,Second Hand Private Cars,Donegal,38
+2019,Second Hand Private Cars,Galway,38
+2019,Second Hand Private Cars,Kerry,21
+2019,Second Hand Private Cars,Kildare,53
+2019,Second Hand Private Cars,Kilkenny,15
+2019,Second Hand Private Cars,Laois,10
+2019,Second Hand Private Cars,Leitrim,5
+2019,Second Hand Private Cars,Longford,4
+2019,Second Hand Private Cars,Louth,26
+2019,Second Hand Private Cars,Mayo,25
+2019,Second Hand Private Cars,Meath,40
+2019,Second Hand Private Cars,Monaghan,15
+2019,Second Hand Private Cars,Offaly,12
+2019,Second Hand Private Cars,Roscommon,11
+2019,Second Hand Private Cars,Sligo,7
+2019,Second Hand Private Cars,Westmeath,13
+2019,Second Hand Private Cars,Wexford,35
+2019,Second Hand Private Cars,Wicklow,42
+2019,Second Hand Private Cars,Limerick,21
+2019,Second Hand Private Cars,Waterford,19
+2019,Second Hand Private Cars,Tipperary,17
+2019,Second Hand Private Cars,Cork,90
+2019,Second Hand Private Cars,Dublin,437
+2019,Second Hand Private Cars,Carlow,14
+2019,Second Hand Private Cars,Cavan,11
+2019,Second Hand Private Cars,Clare,15
+2019,Second Hand Private Cars,Donegal,34
+2019,Second Hand Private Cars,Galway,80
+2019,Second Hand Private Cars,Kerry,29
+2019,Second Hand Private Cars,Kildare,59
+2019,Second Hand Private Cars,Kilkenny,18
+2019,Second Hand Private Cars,Laois,6
+2019,Second Hand Private Cars,Leitrim,2
+2019,Second Hand Private Cars,Longford,6
+2019,Second Hand Private Cars,Louth,17
+2019,Second Hand Private Cars,Mayo,23
+2019,Second Hand Private Cars,Meath,51
+2019,Second Hand Private Cars,Monaghan,10
+2019,Second Hand Private Cars,Offaly,8
+2019,Second Hand Private Cars,Roscommon,6
+2019,Second Hand Private Cars,Sligo,10
+2019,Second Hand Private Cars,Westmeath,12
+2019,Second Hand Private Cars,Wexford,17
+2019,Second Hand Private Cars,Wicklow,51
+2019,Second Hand Private Cars,Limerick,19
+2019,Second Hand Private Cars,Waterford,14
+2019,Second Hand Private Cars,Tipperary,24
+2019,Second Hand Private Cars,Cork,103
+2019,Second Hand Private Cars,Dublin,759
+2019,Second Hand Private Cars,Carlow,14
+2019,Second Hand Private Cars,Cavan,28
+2019,Second Hand Private Cars,Clare,29
+2019,Second Hand Private Cars,Donegal,62
+2019,Second Hand Private Cars,Galway,75
+2019,Second Hand Private Cars,Kerry,31
+2019,Second Hand Private Cars,Kildare,111
+2019,Second Hand Private Cars,Kilkenny,25
+2019,Second Hand Private Cars,Laois,30
+2019,Second Hand Private Cars,Leitrim,18
+2019,Second Hand Private Cars,Longford,7
+2019,Second Hand Private Cars,Louth,68
+2019,Second Hand Private Cars,Mayo,33
+2019,Second Hand Private Cars,Meath,78
+2019,Second Hand Private Cars,Monaghan,12
+2019,Second Hand Private Cars,Offaly,15
+2019,Second Hand Private Cars,Roscommon,12
+2019,Second Hand Private Cars,Sligo,26
+2019,Second Hand Private Cars,Westmeath,32
+2019,Second Hand Private Cars,Wexford,68
+2019,Second Hand Private Cars,Wicklow,49
+2019,Second Hand Private Cars,Limerick,62
+2019,Second Hand Private Cars,Waterford,45
+2019,Second Hand Private Cars,Tipperary,41
+2019,Second Hand Private Cars,Cork,177
+2019,Second Hand Private Cars,Dublin,460
+2019,Second Hand Private Cars,Carlow,79
+2019,Second Hand Private Cars,Cavan,135
+2019,Second Hand Private Cars,Clare,127
+2019,Second Hand Private Cars,Donegal,194
+2019,Second Hand Private Cars,Galway,424
+2019,Second Hand Private Cars,Kerry,187
+2019,Second Hand Private Cars,Kildare,347
+2019,Second Hand Private Cars,Kilkenny,124
+2019,Second Hand Private Cars,Laois,91
+2019,Second Hand Private Cars,Leitrim,40
+2019,Second Hand Private Cars,Longford,55
+2019,Second Hand Private Cars,Louth,264
+2019,Second Hand Private Cars,Mayo,167
+2019,Second Hand Private Cars,Meath,395
+2019,Second Hand Private Cars,Monaghan,154
+2019,Second Hand Private Cars,Offaly,76
+2019,Second Hand Private Cars,Roscommon,82
+2019,Second Hand Private Cars,Sligo,98
+2019,Second Hand Private Cars,Westmeath,94
+2019,Second Hand Private Cars,Wexford,204
+2019,Second Hand Private Cars,Wicklow,216
+2019,Second Hand Private Cars,Limerick,254
+2019,Second Hand Private Cars,Waterford,134
+2019,Second Hand Private Cars,Tipperary,210
+2019,Second Hand Private Cars,Cork,734
+2019,Second Hand Private Cars,Dublin,2499
+2019,Second Hand Private Cars,Carlow,12
+2019,Second Hand Private Cars,Cavan,7
+2019,Second Hand Private Cars,Clare,18
+2019,Second Hand Private Cars,Donegal,43
+2019,Second Hand Private Cars,Galway,43
+2019,Second Hand Private Cars,Kerry,33
+2019,Second Hand Private Cars,Kildare,46
+2019,Second Hand Private Cars,Kilkenny,13
+2019,Second Hand Private Cars,Laois,9
+2019,Second Hand Private Cars,Leitrim,7
+2019,Second Hand Private Cars,Longford,12
+2019,Second Hand Private Cars,Louth,53
+2019,Second Hand Private Cars,Mayo,14
+2019,Second Hand Private Cars,Meath,43
+2019,Second Hand Private Cars,Monaghan,14
+2019,Second Hand Private Cars,Offaly,20
+2019,Second Hand Private Cars,Roscommon,9
+2019,Second Hand Private Cars,Sligo,14
+2019,Second Hand Private Cars,Westmeath,18
+2019,Second Hand Private Cars,Wexford,21
+2019,Second Hand Private Cars,Wicklow,38
+2019,Second Hand Private Cars,Limerick,24
+2019,Second Hand Private Cars,Waterford,11
+2019,Second Hand Private Cars,Tipperary,22
+2019,Second Hand Private Cars,Cork,109
+2019,Second Hand Private Cars,Dublin,341
+2019,Second Hand Private Cars,Carlow,10
+2019,Second Hand Private Cars,Cavan,15
+2019,Second Hand Private Cars,Clare,19
+2019,Second Hand Private Cars,Donegal,42
+2019,Second Hand Private Cars,Galway,117
+2019,Second Hand Private Cars,Kerry,16
+2019,Second Hand Private Cars,Kildare,87
+2019,Second Hand Private Cars,Kilkenny,20
+2019,Second Hand Private Cars,Laois,16
+2019,Second Hand Private Cars,Leitrim,3
+2019,Second Hand Private Cars,Longford,8
+2019,Second Hand Private Cars,Louth,49
+2019,Second Hand Private Cars,Mayo,27
+2019,Second Hand Private Cars,Meath,63
+2019,Second Hand Private Cars,Monaghan,17
+2019,Second Hand Private Cars,Offaly,10
+2019,Second Hand Private Cars,Roscommon,11
+2019,Second Hand Private Cars,Sligo,14
+2019,Second Hand Private Cars,Westmeath,10
+2019,Second Hand Private Cars,Wexford,39
+2019,Second Hand Private Cars,Wicklow,75
+2019,Second Hand Private Cars,Limerick,31
+2019,Second Hand Private Cars,Waterford,28
+2019,Second Hand Private Cars,Tipperary,37
+2019,Second Hand Private Cars,Cork,153
+2019,Second Hand Private Cars,Dublin,501
+2019,Second Hand Private Cars,Carlow,88
+2019,Second Hand Private Cars,Cavan,142
+2019,Second Hand Private Cars,Clare,201
+2019,Second Hand Private Cars,Donegal,337
+2019,Second Hand Private Cars,Galway,367
+2019,Second Hand Private Cars,Kerry,154
+2019,Second Hand Private Cars,Kildare,352
+2019,Second Hand Private Cars,Kilkenny,83
+2019,Second Hand Private Cars,Laois,95
+2019,Second Hand Private Cars,Leitrim,58
+2019,Second Hand Private Cars,Longford,59
+2019,Second Hand Private Cars,Louth,282
+2019,Second Hand Private Cars,Mayo,161
+2019,Second Hand Private Cars,Meath,341
+2019,Second Hand Private Cars,Monaghan,138
+2019,Second Hand Private Cars,Offaly,67
+2019,Second Hand Private Cars,Roscommon,110
+2019,Second Hand Private Cars,Sligo,105
+2019,Second Hand Private Cars,Westmeath,123
+2019,Second Hand Private Cars,Wexford,205
+2019,Second Hand Private Cars,Wicklow,176
+2019,Second Hand Private Cars,Limerick,253
+2019,Second Hand Private Cars,Waterford,127
+2019,Second Hand Private Cars,Tipperary,191
+2019,Second Hand Private Cars,Cork,587
+2019,Second Hand Private Cars,Dublin,1963
+2019,Second Hand Private Cars,Carlow,1
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,1
+2019,Second Hand Private Cars,Donegal,1
+2019,Second Hand Private Cars,Galway,1
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,0
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,1
+2019,Second Hand Private Cars,Meath,2
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,0
+2019,Second Hand Private Cars,Wicklow,1
+2019,Second Hand Private Cars,Limerick,1
+2019,Second Hand Private Cars,Waterford,0
+2019,Second Hand Private Cars,Tipperary,0
+2019,Second Hand Private Cars,Cork,2
+2019,Second Hand Private Cars,Dublin,7
+2019,Second Hand Private Cars,Carlow,36
+2019,Second Hand Private Cars,Cavan,56
+2019,Second Hand Private Cars,Clare,90
+2019,Second Hand Private Cars,Donegal,226
+2019,Second Hand Private Cars,Galway,145
+2019,Second Hand Private Cars,Kerry,79
+2019,Second Hand Private Cars,Kildare,150
+2019,Second Hand Private Cars,Kilkenny,59
+2019,Second Hand Private Cars,Laois,55
+2019,Second Hand Private Cars,Leitrim,43
+2019,Second Hand Private Cars,Longford,30
+2019,Second Hand Private Cars,Louth,158
+2019,Second Hand Private Cars,Mayo,108
+2019,Second Hand Private Cars,Meath,139
+2019,Second Hand Private Cars,Monaghan,109
+2019,Second Hand Private Cars,Offaly,51
+2019,Second Hand Private Cars,Roscommon,56
+2019,Second Hand Private Cars,Sligo,73
+2019,Second Hand Private Cars,Westmeath,51
+2019,Second Hand Private Cars,Wexford,121
+2019,Second Hand Private Cars,Wicklow,74
+2019,Second Hand Private Cars,Limerick,70
+2019,Second Hand Private Cars,Waterford,56
+2019,Second Hand Private Cars,Tipperary,138
+2019,Second Hand Private Cars,Cork,199
+2019,Second Hand Private Cars,Dublin,654
+2019,Second Hand Private Cars,Carlow,2
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,2
+2019,Second Hand Private Cars,Donegal,4
+2019,Second Hand Private Cars,Galway,4
+2019,Second Hand Private Cars,Kerry,4
+2019,Second Hand Private Cars,Kildare,11
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,1
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,1
+2019,Second Hand Private Cars,Louth,2
+2019,Second Hand Private Cars,Mayo,2
+2019,Second Hand Private Cars,Meath,7
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,2
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,1
+2019,Second Hand Private Cars,Westmeath,2
+2019,Second Hand Private Cars,Wexford,1
+2019,Second Hand Private Cars,Wicklow,5
+2019,Second Hand Private Cars,Limerick,6
+2019,Second Hand Private Cars,Waterford,2
+2019,Second Hand Private Cars,Tipperary,5
+2019,Second Hand Private Cars,Cork,16
+2019,Second Hand Private Cars,Dublin,97
+2019,Second Hand Private Cars,Carlow,19
+2019,Second Hand Private Cars,Cavan,61
+2019,Second Hand Private Cars,Clare,61
+2019,Second Hand Private Cars,Donegal,133
+2019,Second Hand Private Cars,Galway,96
+2019,Second Hand Private Cars,Kerry,51
+2019,Second Hand Private Cars,Kildare,154
+2019,Second Hand Private Cars,Kilkenny,30
+2019,Second Hand Private Cars,Laois,41
+2019,Second Hand Private Cars,Leitrim,16
+2019,Second Hand Private Cars,Longford,12
+2019,Second Hand Private Cars,Louth,97
+2019,Second Hand Private Cars,Mayo,49
+2019,Second Hand Private Cars,Meath,128
+2019,Second Hand Private Cars,Monaghan,42
+2019,Second Hand Private Cars,Offaly,27
+2019,Second Hand Private Cars,Roscommon,23
+2019,Second Hand Private Cars,Sligo,19
+2019,Second Hand Private Cars,Westmeath,54
+2019,Second Hand Private Cars,Wexford,101
+2019,Second Hand Private Cars,Wicklow,74
+2019,Second Hand Private Cars,Limerick,71
+2019,Second Hand Private Cars,Waterford,63
+2019,Second Hand Private Cars,Tipperary,73
+2019,Second Hand Private Cars,Cork,267
+2019,Second Hand Private Cars,Dublin,581
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,0
+2019,Second Hand Private Cars,Donegal,0
+2019,Second Hand Private Cars,Galway,0
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,1
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,0
+2019,Second Hand Private Cars,Meath,1
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,0
+2019,Second Hand Private Cars,Wicklow,0
+2019,Second Hand Private Cars,Limerick,0
+2019,Second Hand Private Cars,Waterford,1
+2019,Second Hand Private Cars,Tipperary,0
+2019,Second Hand Private Cars,Cork,0
+2019,Second Hand Private Cars,Dublin,3
+2019,Second Hand Private Cars,Carlow,2
+2019,Second Hand Private Cars,Cavan,1
+2019,Second Hand Private Cars,Clare,2
+2019,Second Hand Private Cars,Donegal,7
+2019,Second Hand Private Cars,Galway,2
+2019,Second Hand Private Cars,Kerry,2
+2019,Second Hand Private Cars,Kildare,2
+2019,Second Hand Private Cars,Kilkenny,1
+2019,Second Hand Private Cars,Laois,1
+2019,Second Hand Private Cars,Leitrim,4
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,1
+2019,Second Hand Private Cars,Mayo,5
+2019,Second Hand Private Cars,Meath,5
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,1
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,1
+2019,Second Hand Private Cars,Westmeath,1
+2019,Second Hand Private Cars,Wexford,4
+2019,Second Hand Private Cars,Wicklow,1
+2019,Second Hand Private Cars,Limerick,2
+2019,Second Hand Private Cars,Waterford,1
+2019,Second Hand Private Cars,Tipperary,5
+2019,Second Hand Private Cars,Cork,12
+2019,Second Hand Private Cars,Dublin,30
+2019,Second Hand Private Cars,Carlow,18
+2019,Second Hand Private Cars,Cavan,34
+2019,Second Hand Private Cars,Clare,25
+2019,Second Hand Private Cars,Donegal,123
+2019,Second Hand Private Cars,Galway,86
+2019,Second Hand Private Cars,Kerry,17
+2019,Second Hand Private Cars,Kildare,65
+2019,Second Hand Private Cars,Kilkenny,20
+2019,Second Hand Private Cars,Laois,13
+2019,Second Hand Private Cars,Leitrim,19
+2019,Second Hand Private Cars,Longford,16
+2019,Second Hand Private Cars,Louth,99
+2019,Second Hand Private Cars,Mayo,31
+2019,Second Hand Private Cars,Meath,74
+2019,Second Hand Private Cars,Monaghan,96
+2019,Second Hand Private Cars,Offaly,20
+2019,Second Hand Private Cars,Roscommon,16
+2019,Second Hand Private Cars,Sligo,21
+2019,Second Hand Private Cars,Westmeath,27
+2019,Second Hand Private Cars,Wexford,35
+2019,Second Hand Private Cars,Wicklow,27
+2019,Second Hand Private Cars,Limerick,30
+2019,Second Hand Private Cars,Waterford,22
+2019,Second Hand Private Cars,Tipperary,26
+2019,Second Hand Private Cars,Cork,137
+2019,Second Hand Private Cars,Dublin,245
+2019,Second Hand Private Cars,Carlow,28
+2019,Second Hand Private Cars,Cavan,57
+2019,Second Hand Private Cars,Clare,97
+2019,Second Hand Private Cars,Donegal,244
+2019,Second Hand Private Cars,Galway,271
+2019,Second Hand Private Cars,Kerry,58
+2019,Second Hand Private Cars,Kildare,128
+2019,Second Hand Private Cars,Kilkenny,43
+2019,Second Hand Private Cars,Laois,30
+2019,Second Hand Private Cars,Leitrim,32
+2019,Second Hand Private Cars,Longford,50
+2019,Second Hand Private Cars,Louth,103
+2019,Second Hand Private Cars,Mayo,137
+2019,Second Hand Private Cars,Meath,105
+2019,Second Hand Private Cars,Monaghan,52
+2019,Second Hand Private Cars,Offaly,33
+2019,Second Hand Private Cars,Roscommon,69
+2019,Second Hand Private Cars,Sligo,62
+2019,Second Hand Private Cars,Westmeath,72
+2019,Second Hand Private Cars,Wexford,90
+2019,Second Hand Private Cars,Wicklow,61
+2019,Second Hand Private Cars,Limerick,98
+2019,Second Hand Private Cars,Waterford,75
+2019,Second Hand Private Cars,Tipperary,89
+2019,Second Hand Private Cars,Cork,346
+2019,Second Hand Private Cars,Dublin,485
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,1
+2019,Second Hand Private Cars,Clare,3
+2019,Second Hand Private Cars,Donegal,0
+2019,Second Hand Private Cars,Galway,2
+2019,Second Hand Private Cars,Kerry,1
+2019,Second Hand Private Cars,Kildare,1
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,1
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,2
+2019,Second Hand Private Cars,Meath,0
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,2
+2019,Second Hand Private Cars,Sligo,1
+2019,Second Hand Private Cars,Westmeath,1
+2019,Second Hand Private Cars,Wexford,3
+2019,Second Hand Private Cars,Wicklow,3
+2019,Second Hand Private Cars,Limerick,2
+2019,Second Hand Private Cars,Waterford,2
+2019,Second Hand Private Cars,Tipperary,1
+2019,Second Hand Private Cars,Cork,4
+2019,Second Hand Private Cars,Dublin,19
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,0
+2019,Second Hand Private Cars,Clare,3
+2019,Second Hand Private Cars,Donegal,0
+2019,Second Hand Private Cars,Galway,0
+2019,Second Hand Private Cars,Kerry,0
+2019,Second Hand Private Cars,Kildare,2
+2019,Second Hand Private Cars,Kilkenny,0
+2019,Second Hand Private Cars,Laois,0
+2019,Second Hand Private Cars,Leitrim,0
+2019,Second Hand Private Cars,Longford,0
+2019,Second Hand Private Cars,Louth,0
+2019,Second Hand Private Cars,Mayo,0
+2019,Second Hand Private Cars,Meath,2
+2019,Second Hand Private Cars,Monaghan,0
+2019,Second Hand Private Cars,Offaly,0
+2019,Second Hand Private Cars,Roscommon,0
+2019,Second Hand Private Cars,Sligo,0
+2019,Second Hand Private Cars,Westmeath,0
+2019,Second Hand Private Cars,Wexford,2
+2019,Second Hand Private Cars,Wicklow,1
+2019,Second Hand Private Cars,Limerick,0
+2019,Second Hand Private Cars,Waterford,0
+2019,Second Hand Private Cars,Tipperary,1
+2019,Second Hand Private Cars,Cork,2
+2019,Second Hand Private Cars,Dublin,0
+2019,Second Hand Private Cars,Carlow,0
+2019,Second Hand Private Cars,Cavan,3
+2019,Second Hand Private Cars,Clare,1
+2019,Second Hand Private Cars,Donegal,10
+2019,Second Hand Private Cars,Galway,6
+2019,Second Hand Private Cars,Kerry,3
+2019,Second Hand Private Cars,Kildare,3
+2019,Second Hand Private Cars,Kilkenny,1
+2019,Second Hand Private Cars,Laois,4
+2019,Second Hand Private Cars,Leitrim,1
+2019,Second Hand Private Cars,Longford,3
+2019,Second Hand Private Cars,Louth,3
+2019,Second Hand Private Cars,Mayo,3
+2019,Second Hand Private Cars,Meath,13
+2019,Second Hand Private Cars,Monaghan,1
+2019,Second Hand Private Cars,Offaly,1
+2019,Second Hand Private Cars,Roscommon,1
+2019,Second Hand Private Cars,Sligo,2
+2019,Second Hand Private Cars,Westmeath,1
+2019,Second Hand Private Cars,Wexford,2
+2019,Second Hand Private Cars,Wicklow,6
+2019,Second Hand Private Cars,Limerick,6
+2019,Second Hand Private Cars,Waterford,4
+2019,Second Hand Private Cars,Tipperary,6
+2019,Second Hand Private Cars,Cork,12
+2019,Second Hand Private Cars,Dublin,15
+2019,Second Hand Private Cars,Carlow,2
+2019,Second Hand Private Cars,Cavan,11
+2019,Second Hand Private Cars,Clare,15
+2019,Second Hand Private Cars,Donegal,54
+2019,Second Hand Private Cars,Galway,26
+2019,Second Hand Private Cars,Kerry,8
+2019,Second Hand Private Cars,Kildare,28
+2019,Second Hand Private Cars,Kilkenny,11
+2019,Second Hand Private Cars,Laois,6
+2019,Second Hand Private Cars,Leitrim,5
+2019,Second Hand Private Cars,Longford,5
+2019,Second Hand Private Cars,Louth,17
+2019,Second Hand Private Cars,Mayo,13
+2019,Second Hand Private Cars,Meath,34
+2019,Second Hand Private Cars,Monaghan,9
+2019,Second Hand Private Cars,Offaly,5
+2019,Second Hand Private Cars,Roscommon,4
+2019,Second Hand Private Cars,Sligo,7
+2019,Second Hand Private Cars,Westmeath,6
+2019,Second Hand Private Cars,Wexford,11
+2019,Second Hand Private Cars,Wicklow,25
+2019,Second Hand Private Cars,Limerick,10
+2019,Second Hand Private Cars,Waterford,5
+2019,Second Hand Private Cars,Tipperary,25
+2019,Second Hand Private Cars,Cork,73
+2019,Second Hand Private Cars,Dublin,196
+2019,Second Hand Private Cars,Carlow,61
+2019,Second Hand Private Cars,Cavan,136
+2019,Second Hand Private Cars,Clare,211
+2019,Second Hand Private Cars,Donegal,490
+2019,Second Hand Private Cars,Galway,408
+2019,Second Hand Private Cars,Kerry,130
+2019,Second Hand Private Cars,Kildare,315
+2019,Second Hand Private Cars,Kilkenny,85
+2019,Second Hand Private Cars,Laois,82
+2019,Second Hand Private Cars,Leitrim,50
+2019,Second Hand Private Cars,Longford,77
+2019,Second Hand Private Cars,Louth,211
+2019,Second Hand Private Cars,Mayo,202
+2019,Second Hand Private Cars,Meath,296
+2019,Second Hand Private Cars,Monaghan,80
+2019,Second Hand Private Cars,Offaly,72
+2019,Second Hand Private Cars,Roscommon,72
+2019,Second Hand Private Cars,Sligo,82
+2019,Second Hand Private Cars,Westmeath,104
+2019,Second Hand Private Cars,Wexford,165
+2019,Second Hand Private Cars,Wicklow,171
+2019,Second Hand Private Cars,Limerick,227
+2019,Second Hand Private Cars,Waterford,129
+2019,Second Hand Private Cars,Tipperary,182
+2019,Second Hand Private Cars,Cork,714
+2019,Second Hand Private Cars,Dublin,2433
+2019,Second Hand Private Cars,Carlow,43
+2019,Second Hand Private Cars,Cavan,127
+2019,Second Hand Private Cars,Clare,86
+2019,Second Hand Private Cars,Donegal,524
+2019,Second Hand Private Cars,Galway,247
+2019,Second Hand Private Cars,Kerry,101
+2019,Second Hand Private Cars,Kildare,202
+2019,Second Hand Private Cars,Kilkenny,66
+2019,Second Hand Private Cars,Laois,69
+2019,Second Hand Private Cars,Leitrim,80
+2019,Second Hand Private Cars,Longford,47
+2019,Second Hand Private Cars,Louth,232
+2019,Second Hand Private Cars,Mayo,177
+2019,Second Hand Private Cars,Meath,193
+2019,Second Hand Private Cars,Monaghan,220
+2019,Second Hand Private Cars,Offaly,53
+2019,Second Hand Private Cars,Roscommon,77
+2019,Second Hand Private Cars,Sligo,105
+2019,Second Hand Private Cars,Westmeath,84
+2019,Second Hand Private Cars,Wexford,113
+2019,Second Hand Private Cars,Wicklow,79
+2019,Second Hand Private Cars,Limerick,123
+2019,Second Hand Private Cars,Waterford,58
+2019,Second Hand Private Cars,Tipperary,120
+2019,Second Hand Private Cars,Cork,377
+2019,Second Hand Private Cars,Dublin,750
+2019,Second Hand Private Cars,Carlow,154
+2019,Second Hand Private Cars,Cavan,338
+2019,Second Hand Private Cars,Clare,346
+2019,Second Hand Private Cars,Donegal,852
+2019,Second Hand Private Cars,Galway,794
+2019,Second Hand Private Cars,Kerry,280
+2019,Second Hand Private Cars,Kildare,532
+2019,Second Hand Private Cars,Kilkenny,206
+2019,Second Hand Private Cars,Laois,192
+2019,Second Hand Private Cars,Leitrim,171
+2019,Second Hand Private Cars,Longford,189
+2019,Second Hand Private Cars,Louth,593
+2019,Second Hand Private Cars,Mayo,426
+2019,Second Hand Private Cars,Meath,699
+2019,Second Hand Private Cars,Monaghan,345
+2019,Second Hand Private Cars,Offaly,211
+2019,Second Hand Private Cars,Roscommon,258
+2019,Second Hand Private Cars,Sligo,191
+2019,Second Hand Private Cars,Westmeath,300
+2019,Second Hand Private Cars,Wexford,386
+2019,Second Hand Private Cars,Wicklow,312
+2019,Second Hand Private Cars,Limerick,571
+2019,Second Hand Private Cars,Waterford,212
+2019,Second Hand Private Cars,Tipperary,437
+2019,Second Hand Private Cars,Cork,1141
+2019,Second Hand Private Cars,Dublin,2763
+2019,Second Hand Private Cars,Carlow,26
+2019,Second Hand Private Cars,Cavan,27
+2019,Second Hand Private Cars,Clare,55
+2019,Second Hand Private Cars,Donegal,87
+2019,Second Hand Private Cars,Galway,139
+2019,Second Hand Private Cars,Kerry,73
+2019,Second Hand Private Cars,Kildare,160
+2019,Second Hand Private Cars,Kilkenny,38
+2019,Second Hand Private Cars,Laois,22
+2019,Second Hand Private Cars,Leitrim,15
+2019,Second Hand Private Cars,Longford,18
+2019,Second Hand Private Cars,Louth,63
+2019,Second Hand Private Cars,Mayo,75
+2019,Second Hand Private Cars,Meath,104
+2019,Second Hand Private Cars,Monaghan,31
+2019,Second Hand Private Cars,Offaly,23
+2019,Second Hand Private Cars,Roscommon,39
+2019,Second Hand Private Cars,Sligo,31
+2019,Second Hand Private Cars,Westmeath,42
+2019,Second Hand Private Cars,Wexford,76
+2019,Second Hand Private Cars,Wicklow,76
+2019,Second Hand Private Cars,Limerick,113
+2019,Second Hand Private Cars,Waterford,34
+2019,Second Hand Private Cars,Tipperary,85
+2019,Second Hand Private Cars,Cork,286
+2019,Second Hand Private Cars,Dublin,685

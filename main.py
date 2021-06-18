@@ -91,20 +91,20 @@ print(carsales_all.info())
 print(carsales_all.shape)
 # Rename column 'Licensing Authority' to 'county' and 'VALUE' to 'car_count'
 carsales_all.rename(columns={'VALUE':'car_count'}, inplace=True)
-carsales_all.rename(columns={'Licensing Authority':'county'}, inplace=True)
+carsales_all.rename(columns={'Licensing Authority':'County'}, inplace=True)
 # Check for missing values and delete rows
 missing_values_count = carsales_all.isnull().sum()
 print(missing_values_count[0:8])
 carsales_all= carsales_all.dropna()
 print(carsales_all.shape)
-# Drop columns 'UNIT' NOTE: inplace=True
+# Drop column 'UNIT' NOTE: inplace=True
 carsales_all.drop(['UNIT'], axis=1, inplace=True)
 # From column 'Statistic' exclude rows 'All Private Cars'
 carsales_all_rev1=carsales_all.loc[carsales_all["Statistic"]!="All Private Cars"]
 # from column 'Car Make' exclude rows 'All Makes'
 carsales_all_rev2=carsales_all_rev1.loc[carsales_all_rev1["Car Make"]!="All makes"]
 # From column 'county' exclude rows 'All licensing authorities'
-carsales_all_clean_rev3=carsales_all_rev2.loc[carsales_all_rev2["county"]!="All licensing authorities"]
+carsales_all_clean_rev3=carsales_all_rev2.loc[carsales_all_rev2["County"]!="All licensing authorities"]
 carsales_all_clean=carsales_all_clean_rev3.set_index('Year')
 # Check the database including Export to csv
 print(carsales_all_clean.head())
@@ -129,13 +129,13 @@ plt.ylabel("Car Count")
 plt.xlabel('')
 plt.show()
 # Set the index of carsales_all_clean to county, subset for "new private cars only"
-carsales_all_county=carsales_all_clean.set_index("county")
+carsales_all_county=carsales_all_clean.set_index("County")
 carsales_new_county=carsales_all_county.loc[carsales_all_county["Statistic"]=="New Private Cars"]
 print(carsales_new_county.head())
 print(carsales_new_county.info())
 # New private cars grouped by county and the mean calculated per county over the 5 years 2015 to 2019.
-carsales_new_county_avg= carsales_new_county.groupby("county")[["car_count"]].mean()
-carsales_new_county_avg.sort_values('county', ascending=False)
+carsales_new_county_avg= carsales_new_county.groupby("County")[["car_count"]].mean()
+carsales_new_county_avg.sort_values('County', ascending=False)
 print(carsales_new_county_avg)
 # Add a horizontal bar chart with avg new private cars per county over the 5 years
 carsales_new_county_avg['car_count'].plot(kind="barh")
@@ -146,17 +146,31 @@ plt.ylabel("County")
 plt.show()
 # MERGE DATA ANALYSE & VISUALISE
 # Group Car sales by County & type for 2019 only
-print(carsales_all_clean_year.info())
-carsales_all_2019=carsales_all_clean.loc[['2019'],['Statistic','county','car_count']]
+print(carsales_all_clean.info())
+carsales_all_2019=carsales_all_clean.loc[2019,['Statistic','County','car_count']]
 carsales_all_2019.to_csv('carsales_2019_only.csv')
-carsales_type_county_2019=carsales_all_2019.pivot_table(values="car_count",index="county",columns="Statistic",aggfunc=np.sum)
+carsales_type_county_2019=carsales_all_2019.pivot_table(values="car_count",index="County",columns="Statistic",aggfunc=np.sum)
 # Get the total population by county
 population_by_county_carbuyers=census_2016_pivot.drop(['0 - 4 years','5 - 9 years','10 - 14 years','15 - 19 years','80 - 84 years','85 years and over'],axis=1)
 print(population_by_county_carbuyers.info())
+# Add a column 'Total_Pop_CarBuying_Age' and sum all age groups.
+cols_to_sum = population_by_county_carbuyers.columns[ : population_by_county_carbuyers.shape[1]]
+population_by_county_carbuyers['Total_Pop-CarBuying_Age'] = population_by_county_carbuyers[cols_to_sum].sum(axis=1)
+# Remove individual Age Groups columns
+population_by_county_carbuyers_totals= population_by_county_carbuyers.drop(population_by_county_carbuyers.columns[0:12], axis=1)
 # Check the data and see how we can merge
-carsales_type_county_2019.to_csv('carsales_all_2019.csv')
-population_by_county_carbuyers.to_csv('population_by_county_carbuyers.csv')
-# Merge the data
+print(carsales_type_county_2019.info())
+print(population_by_county_carbuyers_totals.info())
+# Merge the data using pd.merge
+pop_carsales2019_merged= pd.merge(population_by_county_carbuyers_totals,carsales_type_county_2019,on='County')
+# Check the data post merge
+print(pop_carsales2019_merged.head())
+print(pop_carsales2019_merged.info())
+pop_carsales2019_merged.to_csv('pop_carsales2019_merged.csv')
+# Add 1 columns Total Private cars and 3 columns of new cars, second hand cars and total cars bought per capita
+pop_carsales2019_merged['Total Private Cars']=pop_carsales2019_merged['New Private Cars']+pop_carsales2019_merged['Second Hand Private Cars']
 
-# Add a column of new cars bought per capita
+print(pop_carsales2019_merged.head())
+print(pop_carsales2019_merged.info())
+
 # Graph the data gep graph using seaborn
