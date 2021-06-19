@@ -4,6 +4,10 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 from pyjstat import pyjstat
+
+# My Functions
+from POBfunc import impcsv
+
 # POPULATION ANALYSIS
 # Assign URL to variable: url
 url = 'https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/E2049/JSON-stat/2.0/en'
@@ -83,8 +87,8 @@ plt.xlabel("County")
 plt.ylabel("Car Buying Age Group (%)")
 plt.show()
 # CAR SALES ANALYSIS
-# Create a function to read the car sales csv's
-carsales_all=pd.read_csv("TEA18.20210616T120658.csv",delimiter=',', quotechar='"')
+# use impcsv to import the car sales csv to the project.
+carsales_all=impcsv("TEA18.20210616T120658.csv")
 # Check the csv file
 print(carsales_all.head())
 print(carsales_all.info())
@@ -114,6 +118,13 @@ carsales_all_clean.to_csv("carsales_all_clean.csv")
 # Pivot the car sales data by year and car type
 carsales_pivot=carsales_all_clean.pivot_table(values="car_count",index="Year",columns="Statistic",aggfunc=np.sum)
 print(carsales_pivot)
+# for index, row in carsales_pivot.iterrows():
+print(type(carsales_pivot))
+
+# for index, row in carsales_pivot.iterrows():
+#    print("In "+str(row["Year"])+"the number of "+str(lab['New Private Cars']) +str(row['New Private Cars'])+  +str(row['Second Hand Private Cars']))
+# Sum for the total cars bought in the year
+
 # Plot the pivot table into a stacked bar chart.
 carsales_pivot.plot.bar(stacked=True).legend(loc='best', title="Car Type")
 plt.xticks(rotation=30, horizontalalignment="center")
@@ -122,32 +133,14 @@ plt.ylabel("Car Count")
 plt.xlabel('')
 plt.show()
 # Plot the pivot table into a line graph using seaborn
-# sns.relplot(x="Year", y="car_count", data=carsales_pivot.plot, kind="line", style="Statistic")
-# Itterate for rows using pivot for car sales
-# for index, row in carsales_pivot.iterrows():
-
+hue_colors={"New Private Cars":"blue", "Second Hand Private Cars": "orange"}
+sns.relplot(x="Year", y="car_count", data=carsales_all_clean, kind="line", style="Statistic", hue="Statistic", palette=hue_colors, markers=True, ci=None)
 # Plot a line graph by Car Type and Year.
 carsales_pivot.plot.line(marker='o', linewidth=4)
 plt.title("Private Car Sales per Year", weight="bold", size=14)
 plt.grid(True)
 plt.ylabel("Car Count")
 plt.xlabel('')
-plt.show()
-# Set the index of carsales_all_clean to county, subset for "new private cars only"
-carsales_all_county=carsales_all_clean.set_index("County")
-carsales_new_county=carsales_all_county.loc[carsales_all_county["Statistic"]=="New Private Cars"]
-print(carsales_new_county.head())
-print(carsales_new_county.info())
-# New private cars grouped by county and the mean calculated per county over the 5 years 2015 to 2019.
-carsales_new_county_avg= carsales_new_county.groupby("County")[["car_count"]].mean()
-carsales_new_county_avg.sort_values('County', ascending=False)
-print(carsales_new_county_avg)
-# Add a horizontal bar chart with avg new private cars per county over the 5 years
-carsales_new_county_avg['car_count'].plot(kind="barh")
-plt.xticks(rotation=30, horizontalalignment="center")
-plt.title("Average Private Car Sales per County 2015 to 2019", weight="bold", size=14)
-plt.xlabel("Average Private Car Sales Per Annum")
-plt.ylabel("County")
 plt.show()
 # MERGE DATA ANALYSE & VISUALISE
 # Group Car sales by County & type for 2019 only
@@ -172,10 +165,13 @@ pop_carsales2019_merged= pd.merge(population_by_county_carbuyers_totals,carsales
 print(pop_carsales2019_merged.head())
 print(pop_carsales2019_merged.info())
 pop_carsales2019_merged.to_csv('pop_carsales2019_merged.csv')
-# Add 1 columns Total Private cars and 3 columns of new cars, second hand cars and total cars bought per capita
+# Add 1 columns Total Private cars 2019
 pop_carsales2019_merged['Total Private Cars']=pop_carsales2019_merged['New Private Cars']+pop_carsales2019_merged['Second Hand Private Cars']
-
+# Add 3 columns of new cars, second hand cars and total cars bought per capita, through .apply and a defined function per_capita
+pop_carsales2019_merged['New Private Cars per capita'] = pop_carsales2019_merged['New Private Cars']/pop_carsales2019_merged['Total_Pop-CarBuying_Age']
+pop_carsales2019_merged['Second Hand Private Cars per capita'] = pop_carsales2019_merged['Second Hand Private Cars']/pop_carsales2019_merged['Total_Pop-CarBuying_Age']
+pop_carsales2019_merged['Total Private Cars per capita'] = pop_carsales2019_merged['Total Private Cars']/pop_carsales2019_merged['Total_Pop-CarBuying_Age']
 print(pop_carsales2019_merged.head())
 print(pop_carsales2019_merged.info())
-
+pop_carsales2019_merged.to_csv('pop_carsales2019_merged.csv')
 # Graph the data gep graph using seaborn
