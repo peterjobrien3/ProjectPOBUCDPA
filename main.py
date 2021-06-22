@@ -4,10 +4,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 from pyjstat import pyjstat
-
 # My Functions
 from POBfunc import impcsv
-
 # POPULATION ANALYSIS
 # Assign URL to variable: url
 url = 'https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/E2049/JSON-stat/2.0/en'
@@ -53,17 +51,34 @@ population_by_county_df['%'] = ((population_by_county_df['value'] / population_b
 population_by_county_df = population_by_county_df.sort_values("value", ascending=False)
 print(population_by_county_df)
 # Population by County as a bar chart
-population_by_county.plot(x="County", y="Population in Millions", kind="bar", rot=45)
+population_by_county.plot(kind="bar", rot=45)
+plt.ylabel("Population in Millions")
 plt.title("Population by County - Cenusus 2016", weight="bold", size=14)
 plt.show()
-# Create a dataframe of population by age group, define the index order when creating the dataframe, add a column of the % total.
+# Create a dataframe of population by age group, define the index order, add a column of the % total.
+ageG_ind=['0 - 4 years', '5 - 9 years', '10 - 14 years', '15 - 19 years',
+          '20 - 24 years', '25 - 29 years', '30 - 34 years', '35 - 39 years',
+          '40 - 44 years', '45 - 49 years', '50 - 54 years', '55 - 59 years',
+          '60 - 64 years', '65 - 69 years', '70 - 74 years', '75 - 79 years', '80 - 84 years', '85 years and over']
 population_by_agegroup = census_2016_co_clean.groupby("Age Group")["value"].sum()
-population_by_agegroup_df = pd.DataFrame(population_by_agegroup,index=['0 - 4 years', '5 - 9 years', '10 - 14 years', '15 - 19 years', '20 - 24 years', '25 - 29 years', '30 - 34 years', '35 - 39 years', '40 - 44 years', '45 - 49 years', '50 - 54 years', '55 - 59 years', '60 - 64 years', '65 - 69 years', '70 - 74 years', '75 - 79 years', '80 - 84 years', '85 years and over'])
+population_by_agegroup_df = pd.DataFrame(population_by_agegroup,index=ageG_ind)
 print(population_by_agegroup_df)
+print(population_by_agegroup_df.info())
 population_by_agegroup = census_2016_co_clean.groupby("Age Group")["value"].sum()
 # Plot Age group as a percentage of population as a Pie chart
 population_by_agegroup_df.plot(kind="pie", subplots=True, legend=False, ylabel="")
 plt.title("Population by Age Group - 2016 Census", weight="bold", size=14)
+plt.show()
+# Reset the index and Plot a scatter plot on population_agegroup_df using seaborn
+population_by_agegroup_df_reind=population_by_agegroup_df.reset_index()
+print(population_by_agegroup_df_reind.info())
+sns.set_style('whitegrid')
+sns.set_context("notebook")
+g = sns.relplot(x="index", y = "value", data = population_by_agegroup_df_reind, kind='scatter')
+print(type(g)) # type printed to check the type
+g.set(xlabel="Age Group", ylabel="Numbers in Population")
+g.fig.suptitle("Population by Age Group - Census 2016", y=1.00)
+plt.xticks(rotation=30)
 plt.show()
 # Remove the index and Pivot the dataset
 census_2016_co_clean = census_2016_co_clean.reset_index()
@@ -167,15 +182,16 @@ pop_carsales2019_merged['Total Private Cars per capita'] = pop_carsales2019_merg
 print(pop_carsales2019_merged.head())
 print(pop_carsales2019_merged.info())
 pop_carsales2019_merged.to_csv('pop_carsales2019_merged.csv')
-# Sort the data by the Total per Capita column
-pop_carsales2019_merged.sort_values(['Total Private Cars per capita','New Private Cars per capita','Second Hand Private Cars per capita'], ascending=[False,False,False])
-# Create a stacked bar chart to graph the data
-# Select 3 columns "County", 'New Private Cars per capita' & 'Second Hand Private Cars per capita'
-pop_carsales2019_merged_percap = pop_carsales2019_merged.loc[:, 'New Private Cars per capita': 'Second Hand Private Cars per capita']
-print(pop_carsales2019_merged_percap.head())
+# Select 4 columns "County", 'New Private Cars per capita', 'Second Hand Private Cars per capita' & 'Total Private Cars per capita'
+pop_carsales2019_merged_percap = pop_carsales2019_merged.loc[:, 'New Private Cars per capita': 'Total Private Cars per capita']
+# Sort the columns by results (Total, New & Second Hand in descending order)
+pop_carsales2019_merged_percap_gr=pop_carsales2019_merged_percap.sort_values(['Total Private Cars per capita','New Private Cars per capita','Second Hand Private Cars per capita'], ascending=[False,False,False])
+# Remove the column 'Total private cars per capita'
+pop_carsales2019_merged_percap_gr = pop_carsales2019_merged_percap_gr.drop(['Total Private Cars per capita'], axis=1)
+print(pop_carsales2019_merged_percap_gr.head())
 # Plot the pivot table using matplotlib into a stacked bar chart Car Sales by type
-pop_carsales2019_merged_percap.plot.bar(stacked=True).legend(loc='best', title="")
-plt.xticks(rotation=30, horizontalalignment="center")
+pop_carsales2019_merged_percap_gr.plot.bar(stacked=True).legend(loc='best', title="")
+plt.xticks(rotation=90, horizontalalignment="center")
 plt.title("Car Registrations 2019 per Capita by County", weight="bold", size=14)
 plt.ylabel("Car Registrations Per Capita")
 plt.xlabel('')
